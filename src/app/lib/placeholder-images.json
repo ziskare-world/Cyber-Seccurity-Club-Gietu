@@ -1,0 +1,76 @@
+{
+  "news": [
+    {
+      "title": "The Importance of Strong Passwords",
+      "image": "https://picsum.photos/seed/news1/600/400",
+      "imageHint": "lock security"
+    },
+    {
+      "title": "Understanding Phishing Attacks",
+      "image": "https://picsum.photos/seed/news2/600/400",
+      "imageHint": "fishing hook"
+    },
+    {
+      "title": "Keeping Your Software Updated",
+      "image": "https://picsum.photos/seed/news3/600/400",
+      "imageHint": "software update"
+    },
+    {
+      "title": "Zero-Day Vulnerability in Popular Web Browser",
+      "image": "https://picsum.photos/seed/news4/600/400",
+      "imageHint": "computer screen"
+    },
+    {
+      "title": "The Rise of AI in Cybersecurity",
+      "image": "https://picsum.photos/seed/news5/600/400",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "title": "Data Breach at Major Retailer Exposes Millions",
+      "image": "https://picsum.photos/seed/news6/600/400",
+      "imageHint": "shopping cart"
+    },
+    {
+      "title": "How to Secure Your Home Wi-Fi Network",
+      "image": "https://picsum.photos/seed/news7/600/400",
+      "imageHint": "wifi router"
+    },
+    {
+      "title": "The Future of Quantum Cryptography",
+      "image": "https://picsum.photos/seed/news8/600/400",
+      "imageHint": "quantum computer"
+    },
+    {
+      "title": "Social Engineering: The Art of Human Hacking",
+      "image": "https://picsum.photos/seed/news9/600/400",
+      "imageHint": "people talking"
+    },
+    {
+      "title": "New Ransomware Strain Targeting Hospitals",
+      "image": "https://picsum.photos/seed/news10/600/400",
+      "imageHint": "hospital building"
+    }
+  ],
+  "avatars": [
+    {
+      "name": "Jane Doe",
+      "image": "https://picsum.photos/seed/avatar1/40/40"
+    },
+    {
+      "name": "John Smith",
+      "image": "https://picsum.photos/seed/avatar2/40/40"
+    },
+    {
+      "name": "Alex Ray",
+      "image": "https://picsum.photos/seed/avatar3/40/40"
+    },
+    {
+      "name": "Emily Carter",
+      "image": "https://picsum.photos/seed/avatar4/40/40"
+    },
+    {
+      "name": "Michael Brown",
+      "image": "https://picsum.photos/seed/avatar5/40/40"
+    }
+  ]
+}
